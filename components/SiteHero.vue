@@ -144,7 +144,7 @@ export default {
     bottom: 0;
     background: rgba(0, 0, 0, 0);
     position: absolute;
-  },
+  }
   .title,
   .subtitle,
   .under-subtitle,
