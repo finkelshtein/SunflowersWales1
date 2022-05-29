@@ -63,9 +63,9 @@ export default {
 }
 
 .title {
-  font-weight: 300;
+  font-weight: 600;
   @media (min-width: 768px) {
-    font-size: 3.2rem;
+    font-size: 5.2rem;
   }
 }
 .subtitle,
@@ -74,7 +74,7 @@ export default {
   margin: 0;
 }
 .subtitle {
-  font-size: 1rem;
+  font-size: 2.5rem;
   margin-bottom: 0 !important;
 }
 .under-subtitle {
