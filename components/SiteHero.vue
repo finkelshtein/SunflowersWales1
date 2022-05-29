@@ -75,7 +75,7 @@ export default {
 }
 .subtitle {
   font-size: 2.5rem;
-  margin-bottom: 0 !important;
+  margin-bottom: 6rem /*0 !important*/;
 }
 .under-subtitle {
   display: inline-block;
