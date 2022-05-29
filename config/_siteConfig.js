@@ -27,17 +27,12 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'News',
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'Facebook Group',
+      link: 'https://www.facebook.com/groups/601579067497655',
       target: '_blank'
     }
   ],
@@ -66,7 +61,7 @@ export default {
 
   // Newsletter Subscribe
   newsletter: {
-    on: true,
+    on: false,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
