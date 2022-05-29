@@ -136,11 +136,6 @@ export default {
   }
 }
 .hero-theme-dark {
-  .title,
-  .subtitle,
-  .under-subtitle,
-  .under-subtitle strong {
-    color: white;
   &.hero:after {
     content: '';
     top: 0;
@@ -149,7 +144,12 @@ export default {
     bottom: 0;
     background: rgba(0, 0, 0, 0);
     position: absolute;
-  }
+  },
+  .title,
+  .subtitle,
+  .under-subtitle,
+  .under-subtitle strong {
+    color: white;
   }
 }
 .hero-theme-light.hero {
