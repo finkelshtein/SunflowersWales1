@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Sunflowers Wales',
   tagline: 'Nonprofit Community Group',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/sunflowers.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
