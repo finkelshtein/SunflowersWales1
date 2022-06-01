@@ -31,6 +31,10 @@ export default {
       link: '/categories'
     },
     {
+      name: 'Fundraising',
+      link: '/fundraising'
+    },
+    {
       name: 'Facebook Group',
       link: 'https://www.facebook.com/groups/601579067497655',
       target: '_blank'
