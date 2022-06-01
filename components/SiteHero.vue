@@ -76,7 +76,7 @@ export default {
 .subtitle {
   @media (min-width: 768px) {
     font-size: 2.5rem;
-  };
+  }
   margin-bottom: 6rem /*0 !important*/;
 }
 .under-subtitle {
